@@ -2,6 +2,7 @@
 
 ## Open-source swift apps
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
+- 👨‍💻 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs or view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 
 ## Closed-source swift apps
