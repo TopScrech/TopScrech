@@ -7,7 +7,7 @@
 
 ## Closed-source swift apps
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
-- 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - wrapper for Xcode Cloud & Coolify
+- 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👨‍💻 [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 🔋 [Pro Battery (widgets)](https://github.com/TopScrech/Pro-Battery)
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
