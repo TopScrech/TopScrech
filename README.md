@@ -15,7 +15,7 @@
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
-- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy)
+- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 
 ## Code Samples
