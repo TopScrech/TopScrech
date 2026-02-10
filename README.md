@@ -5,6 +5,7 @@
 - 👨‍💻 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
+- 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 
 ## Closed-source swift apps
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
@@ -17,7 +18,6 @@
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
-- 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 
 ## Code Samples
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
