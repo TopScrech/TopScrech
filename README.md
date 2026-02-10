@@ -6,6 +6,7 @@
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
+- 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer)
 
 ## Closed-source swift apps
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
