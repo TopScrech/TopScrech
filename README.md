@@ -1,14 +1,15 @@
 # Project List
 
-## Open-source swift apps
+## Open-source swift projects
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👨‍💻 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer)
+- 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visuzlizer
 
-## Closed-source swift apps
+## Closed-source swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👨‍💻 [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
