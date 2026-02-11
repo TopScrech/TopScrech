@@ -8,6 +8,8 @@
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer)
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visuzlizer
+- 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
+- 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
 
 ## Closed-source swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
@@ -20,7 +22,3 @@
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
-
-## Code Samples
-- 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
-- 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
