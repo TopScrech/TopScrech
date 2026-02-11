@@ -24,4 +24,4 @@
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 
 ## Other Projects
-- [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
+- 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
