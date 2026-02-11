@@ -23,5 +23,5 @@
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 
-## Other Projects
+## Other projects
 - 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
