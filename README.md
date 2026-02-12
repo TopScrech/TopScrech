@@ -25,3 +25,4 @@
 
 ## Other projects
 - 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
+- ☕️ [Java Board Games](https://github.com/TopScrech/Java-Board-Games) - TicTacToe & Othello with AI
