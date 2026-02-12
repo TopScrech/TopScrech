@@ -10,6 +10,7 @@
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visuzlizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
+- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwftData
 
 ## Closed-source swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
