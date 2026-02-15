@@ -7,7 +7,7 @@
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer)
-- 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visuzlizer
+- 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visualizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
