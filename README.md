@@ -11,6 +11,9 @@
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
+- 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
+- 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
+- 📦 [MailCover](https://github.com/TopScrech/MailCover)
 
 ## Closed-source swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
