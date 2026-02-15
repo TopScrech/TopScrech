@@ -11,6 +11,7 @@
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
+- 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Swift/Vapor based back-end for push notifications & Live Activity
 
 ### Packages
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
