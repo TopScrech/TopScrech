@@ -20,7 +20,7 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ## Closed-source swift projects
-- ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block)
+- ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👨‍💻 [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
