@@ -1,7 +1,8 @@
 # Project List
 
 ## ✨ Brand New ✨
-- [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
+- 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
+- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source Swift projects
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
@@ -13,7 +14,6 @@
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visualizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
-- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 - 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Vapor back-end for push notifications & Live Activity
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
 
