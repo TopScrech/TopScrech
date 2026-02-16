@@ -3,7 +3,7 @@
 ## ✨ Brand New ✨
 - [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 
-## Open-source swift projects
+## Open-source Swift projects
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
@@ -14,7 +14,8 @@
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
-- 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Swift/Vapor based back-end for push notifications & Live Activity
+- 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Vapor back-end for push notifications & Live Activity
+- 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
 
 ### Packages
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
@@ -22,7 +23,7 @@
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
-## Closed-source swift projects
+## Closed-source Swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
