@@ -13,7 +13,7 @@
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Proving Swift Charts can handle an audio visualizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
-- 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
+- 🫣 [File (un)hider](https://github.com/TopScrech/File-Hider)
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
 
 ### Vapor back-ends
