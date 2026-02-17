@@ -14,8 +14,11 @@
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - proving Swift Charts can handle an audio visualizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 🫣 [File hider/unhider](https://github.com/TopScrech/File-Hider)
-- 🔔 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Vapor back-end for push notifications & Live Activity
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
+
+## Vapor back-ends
+- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Vapor back-end for push notifications & Live Activity
+- 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### Packages
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
