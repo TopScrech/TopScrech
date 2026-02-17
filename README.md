@@ -17,7 +17,7 @@
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
 
 ## Vapor back-ends
-- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Vapor back-end for push notifications & Live Activity
+- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Push notifications & Live Activity
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### Packages
