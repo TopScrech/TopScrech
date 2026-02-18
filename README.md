@@ -23,7 +23,7 @@
 - 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Push notifications & Live Activity
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
-### Packages
+### SPM Packages
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
