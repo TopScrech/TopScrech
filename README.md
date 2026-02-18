@@ -8,7 +8,7 @@
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
-- 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Proving Swift Charts can handle an audio visualizer
+- 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Audio visualizer built with Swift Charts
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
