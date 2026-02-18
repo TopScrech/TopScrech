@@ -8,13 +8,14 @@
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
-- 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
-- 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Proving Swift Charts can handle an audio visualizer
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
-- 🫣 [File (un)hider](https://github.com/TopScrech/File-Hider)
+- ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
+- 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
+- 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
+- 🫣 [File (un)hider](https://github.com/TopScrech/File-Hider)
 
 ### Vapor back-ends
 - 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Push notifications & Live Activity
@@ -29,7 +30,6 @@
 ## Closed-source Swift projects
 - ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
-- ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
