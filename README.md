@@ -30,7 +30,7 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ## Closed-source Swift projects
-- ▶️ [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
+- 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
