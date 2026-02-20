@@ -13,7 +13,7 @@
 - ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
-- 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
+- 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer encrypted chat with VoIP calls
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 🫣 [Device Color Private API](https://github.com/TopScrech/Device-Color-Private-API)
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
