@@ -15,6 +15,7 @@
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer chat
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
+- 🫣 [Device Color Private API](https://github.com/TopScrech/Device-Color-Private-API)
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
 - 🎙️ [Voice Vault](https://github.com/TopScrech/Voice-Vault) - Voice memos
