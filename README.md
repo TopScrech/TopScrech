@@ -1,4 +1,4 @@
-# Project List
+# My Projects
 
 ## ✨ Brand New ✨
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
