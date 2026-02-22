@@ -1,5 +1,6 @@
 # About
-iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host) in 2022
+- Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host) in 2022
+- iOS dev since 2023
 
 # My Swift Projects
 
