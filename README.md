@@ -1,18 +1,18 @@
 # About
 iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host)
 
-# My Projects
+# My Swift Projects
 
-## ✨ Brand New ✨
+### ✨ Brand New ✨
 - [FanControl](https://github.com/TopScrech/FanControl)
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
-## 🏗️ Work-in-progress 🏗️
+### 🏗️ Work-in-progress 🏗️
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
-## Open-source Swift projects
+## Open-source
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
@@ -39,7 +39,7 @@ iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) f
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
-## Closed-source Swift projects
+## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
@@ -48,6 +48,6 @@ iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) f
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 
-## Other projects
+# Other projects
 - 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
 - ☕️ [Java Board Games](https://github.com/TopScrech/Java-Board-Games) - TicTacToe & Othello with AI
