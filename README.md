@@ -27,7 +27,7 @@ iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) f
 - 🫣 [File (un)hider](https://github.com/TopScrech/File-Hider)
 
 ### Vapor back-ends
-- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - Push notifications & Live Activity
+- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### SPM Packages
