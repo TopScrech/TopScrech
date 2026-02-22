@@ -5,7 +5,6 @@
 # My Swift Projects
 
 ### ✨ Brand New ✨
-- 💨 [FanControl](https://github.com/TopScrech/FanControl)
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
@@ -41,6 +40,7 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ## Closed-source
+- 💨 [FanControl](https://github.com/TopScrech/FanControl)
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
