@@ -4,7 +4,7 @@ iOS dev since 2023. Together with [@Turbovadim](https://github.com/Turbovadim) f
 # My Swift Projects
 
 ### ✨ Brand New ✨
-- [FanControl](https://github.com/TopScrech/FanControl)
+- 💨 [FanControl](https://github.com/TopScrech/FanControl)
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
