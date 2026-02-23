@@ -34,6 +34,7 @@
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### SPM Packages
+- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
