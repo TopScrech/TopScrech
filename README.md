@@ -5,6 +5,7 @@
 # My Swift Projects
 
 ### ✨ Brand New ✨
+- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
@@ -34,7 +35,6 @@
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### SPM Packages
-- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
