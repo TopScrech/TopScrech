@@ -41,7 +41,7 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ## Closed-source
-- 💨 [FanControl](https://github.com/TopScrech/FanControl) - Controls fan speed using a privileged helper for secure SMC write access
+- 💨 [FanControl](https://github.com/TopScrech/FanControl) - Fan control for macOS
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
