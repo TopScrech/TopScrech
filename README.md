@@ -10,7 +10,7 @@
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
-### 🏗️ Work-in-progress 🏗️
+### 🏗️ WIP 🏗️
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
