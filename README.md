@@ -1,6 +1,7 @@
-# About
-- Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host) in 2022
-- iOS dev since 2023
+# Timeline
+- 2022: Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host)
+- 2023: Started learning iOS dev
+- 2026: Released 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 
 # My Swift Projects
 
@@ -41,7 +42,6 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ## Closed-source
-- 💨 [FanControl](https://github.com/TopScrech/FanControl) - Fan control for macOS
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
