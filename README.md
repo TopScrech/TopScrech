@@ -1,5 +1,5 @@
 # Timeline
-- 2022: Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host)
+- *2022*: Together with [@Turbovadim](https://github.com/Turbovadim) founded [Bisquit.Host](https://github.com/Bisquit-Host)
 - 2023: Started learning iOS dev
 - 2026: Released 💨 [FanControl](https://fancontrol.dev) for macOS
 
