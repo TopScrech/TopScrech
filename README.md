@@ -41,6 +41,7 @@
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
+- 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
 
 ## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
