@@ -6,6 +6,7 @@
 # My Swift Projects
 
 ### ✨ Brand New ✨
+- 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
