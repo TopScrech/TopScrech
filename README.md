@@ -54,5 +54,6 @@
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 
 # Other projects
+- 💨 [FanControl-dev](https://github.com/TopScrech/FanControl-dev) - Front-end for FanControl
 - 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
 - ☕️ [Java Board Games](https://github.com/TopScrech/Java-Board-Games) - TicTacToe & Othello with AI
