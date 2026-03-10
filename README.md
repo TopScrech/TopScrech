@@ -8,6 +8,7 @@
 ### ✨ Brand New ✨
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
+- 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
@@ -39,7 +40,6 @@
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### SPM Packages
-- 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
