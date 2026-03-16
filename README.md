@@ -15,6 +15,7 @@
 
 ### 🏗️ Work-in-progress 🏗️
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
+- ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
