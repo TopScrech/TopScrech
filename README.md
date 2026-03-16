@@ -14,8 +14,8 @@
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 
 ### 🏗️ Work-in-progress 🏗️
-- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
+- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
