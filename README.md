@@ -12,9 +12,9 @@
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
+- ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
 ### 🏗️ Work-in-progress 🏗️
-- ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
