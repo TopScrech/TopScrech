@@ -15,6 +15,7 @@
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
 ### 🏗️ Work-in-progress 🏗️
+- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
@@ -54,7 +55,6 @@
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
-- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Make diabetes suck less
 
 # Other projects
 - 💨 [FanControl-dev](https://github.com/TopScrech/FanControl-dev) - Front-end for [FanControl](https://fancontrol.dev)
