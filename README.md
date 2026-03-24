@@ -15,7 +15,7 @@
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
 ### 🏗️ Work-in-progress 🏗️
-- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies
+- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
