@@ -20,6 +20,7 @@
 
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
+- 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
@@ -50,7 +51,6 @@
 
 ## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
-- 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
