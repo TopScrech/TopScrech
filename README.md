@@ -7,6 +7,7 @@
 
 ### ✨ Brand New ✨
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
+- 🎮 [LiquidAss](https://github.com/TopScrech/LiquidAss) - Liquid Glass Fabric mod & API for Minecraft
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
