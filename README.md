@@ -22,12 +22,13 @@
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
-- 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
+- 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
+- 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
+- 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
+- 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Audio visualizer built with Swift Charts
-- 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
-- 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
@@ -35,6 +36,7 @@
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer encrypted chat with VoIP calls
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 🫣 [Device Color Private API](https://github.com/TopScrech/Device-Color-Private-API)
+- 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
 - 🎙️ [Voice Vault](https://github.com/TopScrech/Voice-Vault) - Voice memos
@@ -53,8 +55,6 @@
 
 ## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
-- 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
-- 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 
 # Other projects
