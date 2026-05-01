@@ -29,7 +29,6 @@
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Audio visualizer built with Swift Charts
-- ⚒️ [XProj](https://github.com/TopScrech/XProj) - Xcode proj organizer
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 - 👙 [Bikini-Bottom](https://github.com/TopScrech/Bikini-Bottom) - CoreML model for classifying images in 3 categories: regular, bikini & NSFW
