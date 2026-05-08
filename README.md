@@ -17,7 +17,6 @@
 
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
-- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
@@ -47,11 +46,12 @@
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ### SPM Packages
+- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
+- 📦 [LaunchAtLogin](https://github.com/TopScrech/LaunchAtLogin)
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
-- 📦 [LaunchAtLogin](https://github.com/TopScrech/LaunchAtLogin)
 
 ## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
