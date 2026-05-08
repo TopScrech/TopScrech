@@ -5,27 +5,26 @@
 
 # My Swift Projects
 
-### ✨ Brand New ✨
+### ✨ Featured ✨
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 🎮 [LiquidAss](https://github.com/TopScrech/LiquidAss) - Liquid Glass Fabric mod & API for Minecraft
-- 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
+- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
 - 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
-- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
-- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
-- 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
 ### 🏗️ Work-in-progress 🏗️
-- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
+- 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
 - 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
+- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
+- 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
@@ -36,6 +35,7 @@
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer encrypted chat with VoIP calls
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 🫣 [Device Color Private API](https://github.com/TopScrech/Device-Color-Private-API)
+- 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
 - 🔒 [Dial Lock](https://github.com/TopScrech/SwiftUI-Dial-Lock)
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
