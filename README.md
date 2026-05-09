@@ -14,6 +14,7 @@
 
 ### 🏗️ Work-in-progress 🏗️
 - 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
+- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ## Open-source
@@ -22,7 +23,6 @@
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
-- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
