@@ -12,11 +12,6 @@
 - 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 
-### 🏗️ Work-in-progress 🏗️
-- 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
-- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
-- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
-
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
@@ -40,6 +35,11 @@
 - 📁 [UUID File Renamer](https://github.com/TopScrech/UUID-File-Renamer) - Rename files in a folder & its subfolders to UUID
 - 🎙️ [Voice Vault](https://github.com/TopScrech/Voice-Vault) - Voice memos
 - 🫣 [File (un)hider](https://github.com/TopScrech/File-Hider)
+
+### 🏗️ Work-in-progress 🏗️
+- 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
+- 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
+- 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
 
 ### Vapor back-ends
 - 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
