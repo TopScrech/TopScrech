@@ -5,29 +5,22 @@
 
 # My Swift Projects
 
-### ✨ Featured ✨
-- 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
-- 🎮 [LiquidAss](https://github.com/TopScrech/LiquidAss) - Liquid Glass Fabric mod & API for Minecraft
-- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
-- 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for macOS apps
-- ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
-
 ## Open-source
 - 💨 [FanControl](https://fancontrol.dev) - Fan control for macOS
 - 📱 [Device Specs](https://github.com/TopScrech/Device-Specs)
 - 💾 [Disk Usage](https://github.com/TopScrech/Disk-Usage-Widgets) widgets
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
+- ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
-- 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
+- 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Audio visualizer built with Swift Charts
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 - 👙 [Bikini-Bottom](https://github.com/TopScrech/Bikini-Bottom) - CoreML model for classifying images in 3 categories: regular, bikini & NSFW
 - 📡 [PeerChat](https://github.com/TopScrech/PeerChat) - Peer-to-peer encrypted chat with VoIP calls
-- 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 🫣 [Device Color Private API](https://github.com/TopScrech/Device-Color-Private-API)
 - 🗂️ [GPU Sorting](https://github.com/TopScrech/Metal-GPU-Sorting) - Bitonic sort based on Metal API
 - 👨‍💻 [Swifty Master](https://github.com/TopScrech/Swifty-Master) - Interactive SwiftUI code samples
@@ -40,6 +33,9 @@
 - 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
+- 🎮 [LiquidAss](https://github.com/TopScrech/LiquidAss) - Liquid Glass Fabric mod & API for Minecraft
+- 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
+- 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 
 ### Vapor back-ends
 - 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
@@ -48,6 +44,7 @@
 ### SPM Packages
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📦 [LaunchAtLogin](https://github.com/TopScrech/LaunchAtLogin)
+- 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for SwiftUI apps
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
