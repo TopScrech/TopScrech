@@ -46,6 +46,7 @@
 - 📦 [LaunchAtLogin](https://github.com/TopScrech/LaunchAtLogin)
 - 📦 [AutoUpdate](https://github.com/TopScrech/AutoUpdate) - Auto updater for SwiftUI apps
 - 📦 [ScrechKit](https://github.com/TopScrech/ScrechKit) - SwiftUI tweaks
+- 📦 [ANSI](https://github.com/TopScrech/ANSI) - Converts ANSI terminal text into Swift AttributedStrings
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
