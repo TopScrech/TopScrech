@@ -37,10 +37,6 @@
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 
-### Vapor back-ends
-- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
-- 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
-
 ### SPM Packages
 - 📦 [SwiftRPC](https://github.com/TopScrech/SwiftRPC) - Discord Rich Presence
 - 📦 [LaunchAtLogin](https://github.com/TopScrech/LaunchAtLogin)
@@ -50,6 +46,13 @@
 - 📦 [SafariCover](https://github.com/TopScrech/SafariCover)
 - 📦 [MailCover](https://github.com/TopScrech/MailCover)
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
+
+### Agent Skills
+- [asc](https://github.com/TopScrech/asc-release) - Speed up your App Store release with the asc CLI tool
+
+### Vapor back-ends
+- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
+- 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ## Closed-source
 - 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
