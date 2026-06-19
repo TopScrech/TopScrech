@@ -12,6 +12,7 @@
 - 💻 [Ram Usage](https://github.com/TopScrech/Ram-Usage) widgets
 - 🔋 [Pro Battery](https://github.com/TopScrech/Pro-Battery) widgets
 - ☕️ [Latte](https://github.com/TopScrech/Latte) - Keep your Mac awake
+- 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) - Safari extension
 - 🎮 [PyzhCraft](https://github.com/Bisquit-Host/Pyzh-Craft) - Native macOS Minecraft Launcher built with SwiftUI
 - 👨‍💻 [CI-CD](https://github.com/TopScrech/CI-CD) - Xcode Cloud & Coolify wrapper
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
@@ -55,7 +56,6 @@
 - 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ## Closed-source
-- 📺 [YouTube Shorts Block](https://github.com/TopScrech/YouTube-Shorts-Block) Safari extension
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
 
 # Other projects
