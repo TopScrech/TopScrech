@@ -34,7 +34,6 @@
 - 👾 [Pixy](https://github.com/TopScrech/Pixy) - Convert images to pixel arts
 - 📁 [Archive Pro](https://github.com/TopScrech/Archive-Pro)
 - 🌐 [HTTPyzh](https://github.com/TopScrech/HTTPyzh) - Postman killer based on SwiftData
-- 🎮 [LiquidAss](https://github.com/TopScrech/LiquidAss) - Liquid Glass Fabric mod & API for Minecraft
 - 🎨 [Workbook Pro](https://github.com/TopScrech/Workbook-Pro) - iPad workbook
 - 👾 [Git Manager](https://github.com/TopScrech/Git-Manager) - See all new commits compared to main/master, create PRs & view issues in 1 click
 
