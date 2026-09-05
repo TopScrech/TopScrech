@@ -18,6 +18,7 @@
 - 🩸 [Glucosy](https://github.com/TopScrech/Glucosy) - Built for sugar daddies & mommies, supports NovoPen
 - 👨‍💻 [Bundle ID](https://github.com/TopScrech/Bundle-ID) - App Store search from any region
 - 🎹 [Audio Visualizer](https://github.com/TopScrech/Audio-Visualizer) - Audio visualizer built with Swift Charts
+- [Overlazy](https://github.com/TopScrech/Overlazy) — replaces the system language-switching UI
 - 🎮 [MC Stats](https://github.com/TopScrech/MC-Stats) - Minecraft server monitoring
 - 🍆 [Dickpic](https://github.com/TopScrech/Dickpic) - Analyse photo library for sensetive content
 - 👙 [Bikini-Bottom](https://github.com/TopScrech/Bikini-Bottom) - CoreML model for classifying images in 3 categories: regular, bikini & NSFW
