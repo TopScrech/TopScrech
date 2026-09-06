@@ -57,8 +57,3 @@
 
 ## Closed-source
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
-
-# Other projects
-- 💨 [FanControl-dev](https://github.com/TopScrech/FanControl-dev) - Front-end for [FanControl](https://fancontrol.dev)
-- 👨‍💻 [PHP BasicApp](https://github.com/TopScrech/PHP-BasicApp) - User management & image uploading, built with Svelte
-- ☕️ [Java Board Games](https://github.com/TopScrech/Java-Board-Games) - TicTacToe & Othello with AI
