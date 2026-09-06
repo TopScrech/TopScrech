@@ -51,8 +51,8 @@
 - [asc](https://github.com/TopScrech/asc-release) - Speed up your App Store release with the asc CLI tool
 
 ### Vapor back-ends
-- 💧 [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
-- 💧 [Attest service](https://github.com/Bisquit-Host/attest-service)
+- [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
+- [Attest service](https://github.com/Bisquit-Host/attest-service)
 
 ## Closed-source
 - 📁 [Folder Preview](https://github.com/TopScrech/Folder-Preview)
