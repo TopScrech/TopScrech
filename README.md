@@ -48,7 +48,8 @@
 - 📦 [QuickLooking](https://github.com/TopScrech/QuickLooking) - QuickLook file previews
 
 ### Agent Skills
-- [asc](https://github.com/TopScrech/asc-release) - Speed up your App Store release with the asc CLI tool
+- [asc-release](https://github.com/TopScrech/asc-release) - Speed up your App Store release with the asc CLI tool
+- [sui](https://github.com/TopScrech/sui-skill) - Swift/SwiftUI tweaks that make your projects cleaner
 
 ### Vapor back-ends
 - [Pusher](https://github.com/Bisquit-Host/bisquit-swift-pusher) - APNS & Live Activity
